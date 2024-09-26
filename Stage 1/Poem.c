@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+	printf("\n A Line-storm Song \n The line-storm clouds fly tattered and swift,\n The road is forlorn all day,\n Where a myriad snowy quartz stones lift,\n And the hoof-prints vanish away.\n The roadside flowers, too wet for the bee,\n Expend their bloom in vain.\n Come over the hills and far with me,\n And be my love in the rain.\n");
+
+	return 0;
+}
