@@ -1,0 +1,10 @@
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/CLionPractice.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/01_PointerTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/02_PointerTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/03_PointerTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/ATMTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/04_PointerTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/04_DoublePointerTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/05_DoublePointerTest.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ziyanxu/Desktop/c/CLionPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
